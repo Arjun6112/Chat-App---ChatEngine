@@ -28,6 +28,7 @@ const AuthPage = (props) => {
           </button>
         </div>
       </form>
+      <div className="made-by">Made by Arjun with ❤️</div>
     </div>
   );
 };
